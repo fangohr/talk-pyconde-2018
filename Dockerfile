@@ -10,7 +10,7 @@ RUN apt-get install -y python3-pip
 
 COPY . /usr/local/oommfc/
 WORKDIR /usr/local/oommfc
-RUN python3 -m pip install matplotlib<=2.2.3
+RUN python3 -m pip install "matplotlib<3.0.0"
 RUN python3 -m pip install oommfc
 
 # Commands to make Binder work.

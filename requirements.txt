@@ -1,1 +1,2 @@
-joommf
+matplotlib<3
+oommfc

@@ -6,7 +6,9 @@ To follow the live demo, please go to
 https://mybinder.org/v2/gh/fangohr/talk-pyconde-2018/master, or click
 the "launch binder" button above.
 
-The slides of the talk are [available here (pdf)](slides.pdf).
+The slides of the talk are [available here (pdf)](slides.pdf). 
+
+A video recording is available on https://www.youtube.com/watch?v=ZrpJ_H0LCOA .
 
 ## Abstract
 
